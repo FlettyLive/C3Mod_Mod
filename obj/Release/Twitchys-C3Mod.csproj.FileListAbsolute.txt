@@ -1,0 +1,15 @@
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\Twitchys-C3Mod.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\Twitchys-C3Mod.pdb
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\Community.CsharpSqlite.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\Mono.Data.Sqlite.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\MySql.Data.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\MySql.Web.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\Newtonsoft.Json.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\TerrariaServer.exe
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\TShockAPI.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\HttpServer.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Release\BCrypt.Net.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Release\Twitchys-C3Mod.csprojResolveAssemblyReference.cache
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Release\Twitchys-C3Mod.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Release\Twitchys-C3Mod.pdb

@@ -1,0 +1,16 @@
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\Community.CsharpSqlite.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\Community.CsharpSqlite.SQLiteClient.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\Mono.Data.Sqlite.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\MySql.Data.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\MySql.Web.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\Newtonsoft.Json.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\TerrariaServer.exe
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\TShockAPI.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Debug\Twitchys-C3Mod.csprojResolveAssemblyReference.cache
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Debug\Twitchys-C3Mod.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\HttpServer.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\BCrypt.Net.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\C3Mod_Mod.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\bin\Debug\C3Mod_Mod.pdb
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Debug\C3Mod_Mod.dll
+\\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Debug\C3Mod_Mod.pdb
