@@ -13,3 +13,17 @@
 \\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Release\Twitchys-C3Mod.csprojResolveAssemblyReference.cache
 \\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Release\Twitchys-C3Mod.dll
 \\SERVER\Privat Marius\C#\C3Mod_Mod\obj\Release\Twitchys-C3Mod.pdb
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\C3Mod_Mod.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\C3Mod_Mod.pdb
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\Community.CsharpSqlite.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\MySql.Web.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\HttpServer.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\BCrypt.Net.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\obj\Release\Twitchys-C3Mod.csprojResolveAssemblyReference.cache
+F:\Programmierung\C#\Git\C3Mod_Mod\obj\Release\C3Mod_Mod.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\obj\Release\C3Mod_Mod.pdb
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\TerrariaServer.exe
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\TShockAPI.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\Newtonsoft.Json.dll
+F:\Programmierung\C#\Git\C3Mod_Mod\bin\Release\MySql.Data.dll

@@ -12,7 +12,7 @@ using TShockAPI.DB;
 
 namespace C3Mod
 {
-	[ApiVersion(1, 19)]
+	[ApiVersion(1, 20)]
 	public class C3Mod : TerrariaPlugin
 	{
         public static ILog Log;
